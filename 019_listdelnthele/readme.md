@@ -1,0 +1,1 @@
+1. delete ele in a linked lish, firstly should deal with the special situation-->delete head 
